@@ -3,7 +3,7 @@ class TP1 {
         /*pueden cambiar estas variables para ir probando*/
         float ingreso = 700000;
         int superficie = 20;
-        int energia = 900;
+        int energia = 4000;
 
         if ( (ingreso <= 748382.07) &&
            ( superficie <= 30) &&
