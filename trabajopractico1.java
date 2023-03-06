@@ -1,7 +1,7 @@
 class TP1 {
     public static void main(String[] args) {
         /*pueden cambiar estas variables para ir probando*/
-        float ingreso = 1500000;
+        float ingreso = 700000;
         int superficie = 20;
         int energia = 900;
 
